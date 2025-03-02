@@ -3,63 +3,76 @@ This project aims to analyze and predict online shoppers' purchase behavior usin
 The key objectives of the project include data cleaning and preprocessing, exploratory data analysis (EDA), outlier handling, and model building to forecast purchase behavior.
 
 Table of Contents
-Introduction
+1.Introduction
 
-Dataset
+2.Dataset
 
-Project Steps
+3.Project Steps
 
-Data Cleaning & Preprocessing
+4.Data Cleaning & Preprocessing
 
-Exploratory Data Analysis (EDA)
+5.Exploratory Data Analysis (EDA)
 
-Outlier Handling
+6.Outlier Handling
 
-Model Building
+7.Model Building
 
-Results
+8.Results
 
-Conclusion
+9.Conclusion
+
+10.Streamlit App
 
 
 
-Introduction
+1,Introduction:
+
 This project leverages the Online Shoppers Purchase Prediction Dataset to understand and predict the purchasing behavior of online shoppers. 
 The analysis and modeling techniques applied in this project aim to provide insights into the factors influencing purchase decisions and build predictive models to forecast future purchases.
 
-Dataset
+2.Dataset:
+
 The dataset used in this project is the Online Shoppers Purchase Prediction Dataset. 
 It contains various features related to online shopping sessions, such as visitor metrics, page views, traffic source information, and more.
 
-Project Steps
-Data Cleaning & Preprocessing
+3.Project Steps:
+
+4.Data Cleaning & Preprocessing:
+
 Handled missing values and transformed data to ensure the dataset was ready for analysis.
 
 Performed data normalization and encoding for categorical variables.
 
-Exploratory Data Analysis (EDA)
+5.Exploratory Data Analysis (EDA):
+
 Conducted a thorough analysis to identify patterns, trends, and relationships within the data.
 
 Visualized key insights using charts and graphs to better understand the dataset.
 
-Outlier Handling
+6.Outlier Handling:
+
 Identified and managed outliers to improve the accuracy of predictive models.
 
 Applied statistical techniques to handle outliers effectively.
 
-Model Building
+7.Model Building:
+
 Constructed various predictive models using machine learning algorithms.
 
 Evaluated model performance using metrics such as accuracy, precision, recall, and F1-score.
 
 Fine-tuned models to optimize their performance and generalization ability.
 
-Results
+8.Results:
+
 Summarized the performance of the predictive models.
 
 Highlighted key findings and insights derived from the analysis.
 
-Conclusion
+9.Conclusion:
+
 Discussed the implications of the results and potential applications of the predictive models.
 
 Provided recommendations for future work and improvements.
+
+10.Streamlit app: https://onlineshopperpurchasepredictionproject-ivumi5rtpqzhuwsnyrvuvp.streamlit.app/
