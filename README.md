@@ -64,6 +64,8 @@ Constructed various predictive models using machine learning algorithms.
 
 Evaluated model performance using metrics such as accuracy, precision, recall, and F1-score.
 
+XGBoost came out as the best model with 94% accuracy.
+
 Fine-tuned models to optimize their performance and generalization ability.
 
 8.Results:
