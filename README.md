@@ -1,3 +1,6 @@
+## Streamlit App
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://onlineshopperpurchasepredictionproject-ivumi5rtpqzhuwsnyrvuvp.streamlit.app/)
+
 Online Shoppers Purchase Prediction Project
 This project aims to analyze and predict online shoppers' purchase behavior using the Online Shoppers Purchase Prediction Dataset.
 The key objectives of the project include data cleaning and preprocessing, exploratory data analysis (EDA), outlier handling, and model building to forecast purchase behavior.
